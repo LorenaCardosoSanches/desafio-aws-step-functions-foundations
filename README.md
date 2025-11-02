@@ -31,21 +31,23 @@ O fluxo foi configurado como **Padrão**, para armazenar o histórico e permitir
 
 ## 📸 Evidências do Projeto
 
-**Etapa de criação:**
-
-![Criação da Máquina](images/criacao-maquina.png)
 
 **Editor de design do Step Functions antes da criação:**
 
 ![Editor Step Function](images/editor-stepfunction.png)
 
-**Fluxo completo criado com as etapas Lambda e estado final:**
+**Etapa de criação:**
 
-![Fluxo Final](images/fluxo-diagrama.png)
+![Criação da Máquina](images/criacao-maquina.png)
+
 
 **Confirmação de criação com sucesso:**
 
 ![Criação com Êxito](images/criacao-sucesso.png)
+
+**Fluxo completo criado com as etapas Lambda e estado final:**
+
+![Fluxo Final](images/fluxo-diagrama.png)
 
 ---
 
