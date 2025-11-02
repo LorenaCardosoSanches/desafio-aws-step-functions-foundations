@@ -38,12 +38,12 @@ O fluxo foi configurado como **Padrão**, para armazenar o histórico e permitir
 
 **Etapa de criação:**
 
-![Criação da Máquina](images/criacao-maquina.png)
+![Criação da Máquina]()
 
 
 **Confirmação de criação com sucesso:**
 
-![Criação com Êxito](images/criacao-sucesso.png)
+![Criação com Êxito]()
 
 **Fluxo completo criado com as etapas Lambda e estado final:**
 
